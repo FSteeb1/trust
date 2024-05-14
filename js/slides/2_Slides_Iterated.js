@@ -274,13 +274,6 @@ SLIDES.push({
 		//////////////////////////////
 		//////////////////////////////
 
-		// Next...
-		self.add({
-			id:"next", type:"TextBox",
-			x:104, y:478, width:447, height:37,
-			text_id: "characters_teaser"
-		});
-
 		// Next Button!
 		self.add({
 			id:"next_button", type:"Button", x:544, y:471, size:"long",
